@@ -1,9 +1,8 @@
 # GCI Data Dictionary
 
 Column definitions for every file in the Global Capitalism Index data release.
-Dataset-level documentation of the 213 underlying inputs — sources, native
-scales, transformations, and reliability grades — is in the
-[Codebook](gci_codebook.md).
+Please see the [Codebook](gci_codebook.md) for dataset-level documentation of the 213 underlying inputs sources, native
+scales, transformations, and reliability grades.
 
 ## `gci_composite.csv`
 
@@ -23,7 +22,7 @@ and `year` to assemble a wide panel.
 
 ## Subindex files
 
-All eight share the same seven-column layout.
+All eight share the same seven column layout.
 
 | Column | Type | Description |
 |---|---|---|
@@ -52,7 +51,7 @@ Score column names, and the range of `n_obs_vars` in each file:
 
 Both columns count observed inputs, at different levels of the index hierarchy.
 
-**`n_obs`** in the composite file counts how many of the eight subindices were
+**`n_obs`** in the gci_composite file counts how many of the eight subindices were
 available for that country-year. A country-year is scored on the composite only
 if at least five of eight are observed, so `n_obs` never falls below 5. Values
 below 8 mean the composite rests on a subset of the eight pillars, and those
@@ -61,17 +60,13 @@ observations carry wider confidence intervals.
 **`n_obs_vars`** in a subindex file counts how many of that subindex's underlying
 datasets were observed for that country-year. The maximum never reaches the full
 dataset count in the rightmost column above, because no country-year has every
-dataset present: sources enter and exit the panel across 2009–2025, and the
+dataset present, as sources enter and exit the panel across 2009–2025 and the
 adaptive PCA estimates within temporal periods using only the variables available
 in each. Low values indicate a score built on thin information and should be read
 alongside the confidence interval.
 
-Neither column is a quality score. Use it as a coverage flag — for instance,
-dropping observations below a threshold as a robustness check, or weighting by
-interval width.
-
 ## Missing values
 
-Missing values are empty fields. They are **not** zeros: several subindices have
+Missing values are empty fields. They are **not** zeros. Several subindices have
 legitimate scores at or near 0.00, so treating blanks as zeros will corrupt any
-analysis. Both pandas and R read empty CSV fields as `NA` by default.
+analysis.
