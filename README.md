@@ -18,8 +18,26 @@ The data is released under [CC BY-NC 4.0](LICENSE). It is free to use, share, an
 build on for research, teaching, journalism, and analysis. **Commercial
 use requires prior written permission** from the Democracy and Capitalism Lab.
 
-Anyone is welcome to use this data. We ask that you attribute our work by citing the GCI dataset and the accompanying academic paper. Please also link to the Global Capitalism Index website at **[capitalismindex.com](https://capitalismindex.com)**
-The the [Citation](#citation) section below lists each citation. 
+Anyone is welcome to use this data. We ask that you attribute our work by citing the GCI dataset and the accompanying academic paper. Please also link to the Global Capitalism Index website at **[capitalismindex.com](https://capitalismindex.com)**.
+The the [Citation](#citation) section lists all citations. 
+
+Global Capitalism Index dataset:
+
+> Roberts, Thomas Villalobos, Zachary Esses Johnson, Scott C. Miller, Hannah
+> Knox Tucker, Michael J. Lenox, Sidney M. Milkis, Katharine Shadlock, Meghana
+> Annamaneni, Eliza Bentley, Grace Higgins, Arya Kumar, Sebastian Nabatoff. 2026.
+> "Global Capitalism Index [Country-Year] Dataset 2025," Democracy and Capitalism
+> Lab, Karsh Institute of Democracy and Institute for Business and Society,
+> Darden School of Business, University of Virginia.
+
+And the accompanying academic paper:
+
+> Roberts, Thomas Villalobos, Zachary Esses Johnson, Scott C. Miller, Hannah
+> Knox Tucker, Michael J. Lenox, Sidney M. Milkis, Katharine Shadlock. 2026. "The
+> Global Capitalism Index: A Multidimensional Index for Measuring Market
+> Systems," Democracy and Capitalism Lab, Karsh Institute of Democracy and
+> Institute for Business and Society, Darden School of Business, University of
+> Virginia.
 
 ## Data Files
 
