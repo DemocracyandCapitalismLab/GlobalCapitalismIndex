@@ -18,8 +18,9 @@ The data is released under [CC BY-NC 4.0](LICENSE). It is free to use, share, an
 build on for research, teaching, journalism, and analysis. **Commercial
 use requires prior written permission** from the Democracy and Capitalism Lab.
 
-Anyone is welcome to use this data. We ask that you attribute our work by citing or linking to
-the accompanying academic paper and the Global Capitalism Index at **[capitalismindex.com](https://capitalismindex.com)** The the [Citation](#citation) section below lists each citation. 
+Anyone is welcome to use this data. We ask that you attribute our work by citing the accompanying
+academic paper and the Global Capitalism Index website at **[capitalismindex.com](https://capitalismindex.com)**
+The the [Citation](#citation) section below lists each citation. 
 
 ## Data files
 
@@ -43,7 +44,7 @@ zeros, as several subindices have legitimate scores at or near 0.00.
 
 ## Reference documents
 
-### Data dictionary
+### Data Dictionary
 
 Column definitions for every file, and guidance on reading the coverage fields.
 
@@ -56,23 +57,30 @@ transformations, and reliability grades.
 
 [View on GitHub](docs/gci_codebook.md) · [Download as PDF](docs/gci_codebook.pdf)
 
-### Whitepaper
+### Academic Paper with Compositional Methodology
 
-Theoretical framework and compositional methodology.
+The academic paper provides a detailed overview of the theoretical framework and compositional methodology.
 
 [Download as PDF](docs/gci_whitepaper.pdf)
 
 ### Peer reviews
 
-External subject-expert reviews of each of the eight subindices, posted in full.
+Each of the eight subindices was reviewed by external scholars with subject
+expertise in that domain. Reviewers were asked to assess the theoretical
+justification for the subindex, the appropriateness of its domain structure,
+and the merit of each dataset selected as an input. Ten reviewers took part,
+covering all eight subindices. Where a review
+prompted a change to the index, that change is reflected in the current data
+and described in the academic paper. The instructions provided to reviewers are
+also in the academic paper.
 
 [Browse the reviews](docs/peer_review)
 
 ## Coverage
 
 The composite is scored for 170 countries. Individual subindices cover up to
-175, because five countries — Cuba, Eritrea, Palestine, Somalia, and South Sudan
-— appear in one or more subindices but never meet the five-of-eight threshold
+175, because five countries (Cuba, Eritrea, Palestine, Somalia, and South Sudan) 
+appear in one or more subindices but never meet the 5 of 8 threshold
 required for a composite score. They therefore appear in subindex files and never
 in `gci_composite.csv`. Annual coverage varies with data availability.
 
@@ -88,23 +96,20 @@ in `gci_composite.csv`. Annual coverage varies with data availability.
 | Labor Market Openness | 153 | 123 |
 | **Composite** | **170** | **161** |
 
-Any analysis pooling subindices should expect an unbalanced panel.
+## Notes on Use
 
-## Notes on use
-
-**Scores are year-relative.** Normalization is computed year by year, which
+**Scores are year-relative:** Normalization is computed year by year, which
 preserves cross-national variation but means a country's score can move because
 the surrounding distribution shifted rather than because its own institutions
 changed. For claims about relative position over time, ranks are the safer
 instrument.
 
-**Use the confidence intervals.** Countries whose intervals overlap
+**Confidence intervals:** Countries whose intervals overlap
 substantially cannot be reliably ranked on point estimates alone. The intervals
 propagate resampling and imputation variance, but not uncertainty in period
-boundaries, component counts, reliability scores, or source measurement error —
-they are a lower bound.
+boundaries, component counts, reliability scores, or source measurement error.
 
-## Peer review
+## Peer Review
 
 Each of the eight subindices was reviewed by external scholars with subject
 expertise in that domain. Reviewers were asked to assess the theoretical
@@ -113,14 +118,11 @@ and the merit of each dataset selected as an input. Ten reviewers took part,
 covering all eight subindices.
 
 Reviews are posted in full in [`docs/peer_review/`](docs/peer_review), with a
-table listing each reviewer and the subindex they assessed. Where a review
-prompted a change to the index, that change is reflected in the current data
-and described in the whitepaper. The instructions provided to reviewers are
-also in the whitepaper.
+table listing each reviewer and the subindex they assessed. 
 
 ## Citation
 
-Please cite the dataset:
+Please cite the Global Capitalism Index:
 
 > Roberts, Thomas Villalobos, Zachary Esses Johnson, Scott C. Miller, Hannah
 > Knox Tucker, Michael J. Lenox, Sidney M. Milkis, Katharine Shadlock, Meghana
@@ -129,7 +131,7 @@ Please cite the dataset:
 > Lab, Karsh Institute of Democracy and Institute for Business and Society,
 > Darden School of Business, University of Virginia.
 
-For the theoretical framework and compositional methodology:
+And the accompanying academic paper:
 
 > Roberts, Thomas Villalobos, Zachary Esses Johnson, Scott C. Miller, Hannah
 > Knox Tucker, Michael J. Lenox, Sidney M. Milkis, Katharine Shadlock. 2026. "The
@@ -138,7 +140,7 @@ For the theoretical framework and compositional methodology:
 > Institute for Business and Society, Darden School of Business, University of
 > Virginia.
 
-For the codebook:
+For the details outlined in the GCI codebook:
 
 > Roberts, Thomas Villalobos, Zachary Esses Johnson, Scott C. Miller, Hannah Knox
 > Tucker. 2026. "Global Capitalism Index Codebook," Democracy and Capitalism Lab,
@@ -147,11 +149,6 @@ For the codebook:
 
 ## Questions and corrections
 
-Documentation errors, dataset issues, and methodological questions can be raised
-through this repository's
-[issue tracker](https://github.com/DemocracyandCapitalismLab/GlobalCapitalismIndex/issues)
-or directed to the authors listed in the whitepaper. Researchers using the GCI in
-published work are encouraged to notify the team so we can maintain an accurate
-record of applications.
-
-The GCI is updated annually as new data become available.
+Documentation errors, dataset issues, and methodological questions can directed to the authors listed in the whitepaper.
+Researchers using the GCI in published work are encouraged to notify the team so we can maintain an accurate
+record of applications. The GCI is updated annually as new data become available.
