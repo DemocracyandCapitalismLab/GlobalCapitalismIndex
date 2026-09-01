@@ -18,8 +18,7 @@ The data is released under [CC BY-NC 4.0](LICENSE). It is free to use, share, an
 build on for research, teaching, journalism, and analysis. **Commercial
 use requires prior written permission** from the Democracy and Capitalism Lab.
 
-Anyone is welcome to use this data. We ask that you attribute our work by citing the accompanying
-academic paper and the Global Capitalism Index website at **[capitalismindex.com](https://capitalismindex.com)**
+Anyone is welcome to use this data. We ask that you attribute our work by citing the GCI dataset and the accompanying academic paper. Please also link to the Global Capitalism Index website at **[capitalismindex.com](https://capitalismindex.com)**
 The the [Citation](#citation) section below lists each citation. 
 
 ## Data files
@@ -122,7 +121,7 @@ table listing each reviewer and the subindex they assessed.
 
 ## Citation
 
-Please cite the Global Capitalism Index:
+Please cite the Global Capitalism Index dataset:
 
 > Roberts, Thomas Villalobos, Zachary Esses Johnson, Scott C. Miller, Hannah
 > Knox Tucker, Michael J. Lenox, Sidney M. Milkis, Katharine Shadlock, Meghana
@@ -140,10 +139,18 @@ And the accompanying academic paper:
 > Institute for Business and Society, Darden School of Business, University of
 > Virginia.
 
-For the details outlined in the GCI codebook:
+For the details specifically outlined in the GCI codebook:
 
 > Roberts, Thomas Villalobos, Zachary Esses Johnson, Scott C. Miller, Hannah Knox
 > Tucker. 2026. "Global Capitalism Index Codebook," Democracy and Capitalism Lab,
+> Karsh Institute of Democracy and Institute for Business and Society, Darden
+> School of Business, University of Virginia.
+>
+
+For the GCI Website:
+
+> Roberts, Thomas Villalobos, Zachary Esses Johnson, Scott C. Miller, Hannah Knox
+> Tucker. 2026. "Global Capitalism Index Website," capitalismindex.com, Democracy and Capitalism Lab,
 > Karsh Institute of Democracy and Institute for Business and Society, Darden
 > School of Business, University of Virginia.
 
