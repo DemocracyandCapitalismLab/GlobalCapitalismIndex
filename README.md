@@ -149,6 +149,6 @@ For the details outlined in the GCI codebook:
 
 ## Questions and corrections
 
-Documentation errors, dataset issues, and methodological questions can directed to the authors listed in the whitepaper.
+Documentation errors, dataset issues, and methodological questions can directed to the authors listed in the academic paper.
 Researchers using the GCI in published work are encouraged to notify the team so we can maintain an accurate
 record of applications. The GCI is updated annually as new data become available.
