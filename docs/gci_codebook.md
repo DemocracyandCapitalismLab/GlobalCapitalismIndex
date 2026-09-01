@@ -4,7 +4,7 @@ The full codebook documents all 213 underlying datasets: source links, native
 scales, transformations applied, and reliability grades, organised by subindex
 and domain.
 
-The authoritative version is the typeset PDF:
+The authoritative version is:
 
 **[Download the Codebook (PDF)](gci_codebook.pdf)**
 
