@@ -154,7 +154,7 @@ For the details specifically outlined in the GCI codebook:
 > School of Business, University of Virginia.
 >
 
-For the GCI Website:
+For the GCI website:
 
 > Roberts, Thomas Villalobos, Zachary Esses Johnson, Scott C. Miller, Hannah Knox
 > Tucker. 2026. "Global Capitalism Index Website," capitalismindex.com, Democracy and Capitalism Lab,
