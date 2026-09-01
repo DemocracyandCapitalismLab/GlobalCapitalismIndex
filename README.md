@@ -21,7 +21,7 @@ use requires prior written permission** from the Democracy and Capitalism Lab.
 Anyone is welcome to use this data. We ask that you attribute our work by citing the GCI dataset and the accompanying academic paper. Please also link to the Global Capitalism Index website at **[capitalismindex.com](https://capitalismindex.com)**
 The the [Citation](#citation) section below lists each citation. 
 
-## Data files
+## Data Files
 
 All data is in the [`data/`](data) folder as `.csv` files: one for the composite
 index and one for each of the eight subindices.
@@ -41,7 +41,7 @@ index and one for each of the eight subindices.
 All files are UTF-8 with LF line endings. Missing values are empty fields, not
 zeros, as several subindices have legitimate scores at or near 0.00.
 
-## Reference documents
+## Reference Documents
 
 ### Data Dictionary
 
@@ -62,7 +62,7 @@ The academic paper provides a detailed overview of the theoretical framework and
 
 [Download as PDF](docs/gci_whitepaper.pdf)
 
-### Peer reviews
+### Peer Reviews
 
 Each of the eight subindices was reviewed by external scholars with subject
 expertise in that domain. Reviewers were asked to assess the theoretical
@@ -108,17 +108,6 @@ substantially cannot be reliably ranked on point estimates alone. The intervals
 propagate resampling and imputation variance, but not uncertainty in period
 boundaries, component counts, reliability scores, or source measurement error.
 
-## Peer Review
-
-Each of the eight subindices was reviewed by external scholars with subject
-expertise in that domain. Reviewers were asked to assess the theoretical
-justification for the subindex, the appropriateness of its domain structure,
-and the merit of each dataset selected as an input. Ten reviewers took part,
-covering all eight subindices.
-
-Reviews are posted in full in [`docs/peer_review/`](docs/peer_review), with a
-table listing each reviewer and the subindex they assessed. 
-
 ## Citation
 
 Please cite the Global Capitalism Index dataset:
@@ -154,7 +143,7 @@ For the GCI Website:
 > Karsh Institute of Democracy and Institute for Business and Society, Darden
 > School of Business, University of Virginia.
 
-## Questions and corrections
+## Questions and Corrections
 
 Documentation errors, dataset issues, and methodological questions can directed to the authors listed in the academic paper.
 Researchers using the GCI in published work are encouraged to notify the team so we can maintain an accurate
