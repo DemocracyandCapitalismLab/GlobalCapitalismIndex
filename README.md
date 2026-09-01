@@ -78,7 +78,7 @@ transformations, and reliability grades.
 
 The academic paper provides a detailed overview of the theoretical framework and compositional methodology.
 
-[Download as PDF](docs/gci_whitepaper.pdf)
+[Download as PDF](docs/gci_academicpaper.pdf)
 
 ### Peer Reviews
 
