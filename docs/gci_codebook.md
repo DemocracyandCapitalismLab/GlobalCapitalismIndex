@@ -2,21 +2,9 @@
 
 The full codebook documents all 213 underlying datasets: source links, native
 scales, transformations applied, and reliability grades, organised by subindex
-and domain.
-
-The authoritative version is available here:
+and domain. The authoritative version is available here:
 
 **[Download the Codebook (PDF)](gci_codebook.pdf)**
-
-<!--
-  Replace this file with a Markdown rendering of the codebook if you want it
-  browsable on GitHub, or leave it as a pointer to the PDF. Pandoc can produce
-  a reasonable Markdown version from the LaTeX source:
-
-      pandoc codebook.tex -o docs/gci_codebook.md --wrap=none
-
-  The tables are wide, so review the output before committing.
--->
 
 ## What the codebook contains
 
@@ -34,4 +22,4 @@ every dataset with:
 
 It also documents the parabolic scaling applied to two datasets in the Private
 Ownership domain, and the Executive Opinion Survey methodology underlying the 81
-survey-based inputs.
+World Economic Forum survey-based inputs.
