@@ -18,7 +18,7 @@ The data is released under [CC BY-NC 4.0](LICENSE). It is free to use, share, an
 build on for research, teaching, journalism, and analysis. **Commercial
 use requires prior written permission** from the Democracy and Capitalism Lab.
 
-Anyone is welcome to use this data. We ask that you attribute our work by citing the GCI dataset and the accompanying academic paper. Please also link to the Global Capitalism Index website at **[capitalismindex.com](https://capitalismindex.com)**.
+Anyone is welcome to use this data. We ask that you attribute our work by citing the GCI dataset and the accompanying academic paper. Please also link to or cite the Global Capitalism Index website at **[capitalismindex.com](https://capitalismindex.com)**.
 The the [Citation](#citation) section lists all citations. 
 
 Global Capitalism Index dataset:
