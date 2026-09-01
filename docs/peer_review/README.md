@@ -9,9 +9,12 @@ Each of the reviews and our responses to them are posted here for public referen
 index, the change is reflected in the current release and described in both the response and the 
 accompanying academic paper.
 
-| Subindex | Reviewer | Affiliation | Review | Response | 
-|---|---|---|---|
-| Strength of Property Rights and Private Ownership | Robert Bruner | University of Virginia | [PDF](property_rights.pdf) |
+| Subindex | Reviewer | Affiliation | Review | Response |
+|---|---|---|---|---|
+| Strength of Property Rights and Private Ownership | Robert Bruner | University of Virginia | [REVIEW](bruner_review.pdf) | | [bruner_response](property_rights.pdf) |
+
+
+
 | Market-Supporting Policy | | | [PDF](market_supporting_policy.pdf) |
 | Labor Market Openness | | | [PDF](labor_market_openness.pdf) |
 | Market Competition | | | [PDF](market_competition.pdf) |
