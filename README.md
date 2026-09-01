@@ -14,17 +14,12 @@ country profiles, and background are at
 **[capitalismindex.com](https://capitalismindex.com)**. This repository is the
 download point for the underlying data.
 
-The data is released under [CC BY-NC 4.0](LICENSE) — free to use, share, and
-build on for research, teaching, journalism, and policy analysis. **Commercial
+The data is released under [CC BY-NC 4.0](LICENSE). It is free to use, share, and
+build on for research, teaching, journalism, and analysis. **Commercial
 use requires prior written permission** from the Democracy and Capitalism Lab.
 
-Anyone is welcome to use this data. We ask that you:
-
-1. Cite our academic paper as the source of the data. The full citation is in
-   the [Citation](#citation) section below.
-2. Cite the original data providers for any individual indicator you rely on.
-   All 213 inputs are documented with a link to their original source in the
-   [Codebook](docs/gci_codebook.md).
+Anyone is welcome to use this data. We ask that you attribute our work by citing or linking to
+the accompanying academic paper and the Global Capitalism Index at **[capitalismindex.com](https://capitalismindex.com)** The the [Citation](#citation) section below lists each citation. 
 
 ## Data files
 
@@ -44,7 +39,7 @@ index and one for each of the eight subindices.
 | [`gci_free_flow_goods_capital.csv`](data/gci_free_flow_goods_capital.csv) | Free Flow of Goods and Capital | 2,717 |
 
 All files are UTF-8 with LF line endings. Missing values are empty fields, not
-zeros — several subindices have legitimate scores at or near 0.00.
+zeros, as several subindices have legitimate scores at or near 0.00.
 
 ## Reference documents
 
