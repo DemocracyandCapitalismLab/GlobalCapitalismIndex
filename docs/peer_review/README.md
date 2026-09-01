@@ -5,9 +5,9 @@ expertise in that domain. Reviewers assessed the theoretical justification for
 the subindex, the appropriateness of its domain structure, and the merit of each
 dataset selected as an input.
 
-Reviews are posted here as received. Where a review prompted a change to the
+Reviews are posted here for public reference. Where a review prompted a change to the
 index, the change is reflected in the current release and described in the
-whitepaper.
+accompanying academic paper.
 
 | Subindex | Reviewer | Affiliation | Review |
 |---|---|---|---|
@@ -20,17 +20,4 @@ whitepaper.
 | New Business Formation and Growth | | | [PDF](new_business_formation.pdf) |
 | Free Flow of Goods and Capital | | | [PDF](free_flow_goods_capital.pdf) |
 
-<!--
-  Add each reviewer's name and affiliation to the table above, and place the
-  corresponding PDF in this folder using the filename already linked. If a
-  reviewer asked to remain anonymous, write "Anonymous" in the Reviewer column
-  and leave Affiliation blank.
-
-  If a subindex received more than one review, add a second row for it rather
-  than combining the PDFs — reviewers assessed the subindex independently.
-
-  Delete the row for any review that will not be posted, so the table does not
-  contain a broken link.
--->
-
-The instructions provided to reviewers are in the whitepaper.
+The instructions provided to reviewers are documented in the accompanying academic paper.
