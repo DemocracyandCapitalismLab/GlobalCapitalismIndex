@@ -44,7 +44,7 @@ Score column names, and the range of `n_obs_vars` in each file:
 | `gci_market_competition.csv` | `market_competition_scaled` | 6–31 | 31 |
 | `gci_capital_market_sophistication.csv` | `cms_scaled` | 4–25 | 29 |
 | `gci_banking_system.csv` | `banking_scaled` | 4–21 | 22 |
-| `gci_new_business_formation.csv` | `business_growth_scaled` | 8–52 | 56 |
+| `gci_new_business_formation.csv` | `new_business_scaled` | 8–52 | 56 |
 | `gci_free_flow_goods_capital.csv` | `free_flow_scaled` | 4–10 | 11 |
 
 ## Reading `n_obs` and `n_obs_vars`
