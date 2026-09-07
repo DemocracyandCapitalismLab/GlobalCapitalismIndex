@@ -1,4 +1,4 @@
-country,iso,year,n_obs_vars,business_growth_scaled,index_lower_scaled,index_upper_scaled
+country,iso,year,n_obs_vars,new_business_scaled,index_lower_scaled,index_upper_scaled
 Hong Kong,HKG,2025,39,89.1526674197438,86.9562721437946,91.3681739074285
 Israel,ISR,2025,38,87.4121359414859,84.8614140912871,90.0100644996171
 Singapore,SGP,2025,37,85.3567811083132,82.4375572636878,88.4343927265146
