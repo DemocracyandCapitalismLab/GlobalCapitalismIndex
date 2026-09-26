@@ -20,6 +20,43 @@ scales, transformations, and reliability grades.
 Subindex scores are not repeated in this file. Join the subindex files on `iso`
 and `year` to assemble a wide panel.
 
+## `gci_master.csv`
+
+A combined panel holding the composite and all eight subindices for every
+country-year, provided so that users do not have to join the nine individual
+files. Values are identical to those files.
+
+| Column | Type | Description |
+|---|---|---|
+| `country` | text | Country name |
+| `iso` | text | ISO 3166-1 alpha-3 code. Join key |
+| `year` | integer | Observation year, 2009–2025 |
+| `n_obs` | integer | Number of the eight subindices observed for this country-year (5–8 where a composite exists) |
+| `gci_composite` | numeric | Composite GCI score, 0–100. Blank where fewer than five subindices are observed |
+| `gci_composite_lower` | numeric | Lower bound of the 95% bootstrap confidence interval |
+| `gci_composite_upper` | numeric | Upper bound of the 95% bootstrap confidence interval |
+| `ci_width` | numeric | Interval width |
+| `<subindex>_n_obs_vars` | integer | Datasets observed for that subindex in this country-year |
+| `<subindex>_scaled` | numeric | Subindex score, 0–100 |
+| `<subindex>_index_lower_scaled` | numeric | Lower bound of the 95% bootstrap confidence interval |
+| `<subindex>_index_upper_scaled` | numeric | Upper bound of the 95% bootstrap confidence interval |
+
+The four subindex columns repeat for each of the eight, using the score column
+name from the table below as the prefix: `property_rights`,
+`market_supporting_policy`, `labor_openness`, `market_competition`, `cms`,
+`banking`, `new_business`, and `free_flow`. For example, Capital Market
+Sophistication appears as `cms_n_obs_vars`, `cms_scaled`,
+`cms_index_lower_scaled`, and `cms_index_upper_scaled`.
+
+**On the prefixes.** The individual subindex files each use `n_obs_vars`,
+`index_lower_scaled`, and `index_upper_scaled` without qualification, which works
+when a file holds one subindex. In the combined file those names would collide
+across the eight, so each is prefixed. `cms_index_lower_scaled` here is the same
+quantity as `index_lower_scaled` in `gci_capital_market_sophistication.csv`.
+
+**Row count.** The file has 2,975 rows against the composite file's 2,809. The
+additional 166 are country-years with subindex scores but no composite score. These are the five countries that never meet the five-of-eight threshold, plus country-years where subindex coverage lapsed. Their composite columns are blank.
+
 ## Subindex files
 
 All eight share the same seven column layout.
