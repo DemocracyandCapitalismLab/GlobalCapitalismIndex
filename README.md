@@ -42,10 +42,12 @@ And the accompanying white paper:
 ## Data Files
 
 All data is in the [`data/`](data) folder as `.csv` files: one for the composite
-index and one for each of the eight subindices.
+index and one for each of the eight subindices. `gci_master.csv` combines the composite and all eight subindices into a single
+country-year panel, for users who want everything in one file rather than joining the nine separately.
 
 | File | Contents | Rows |
 |---|---|---:|
+| [`gci_master.csv`](data/gci_master.csv) | All subindices and the composite, combined | 2,975 |
 | [`gci_composite.csv`](data/gci_composite.csv) | Composite GCI score | 2,809 |
 | [`gci_property_rights.csv`](data/gci_property_rights.csv) | Strength of Property Rights and Private Ownership | 2,970 |
 | [`gci_market_supporting_policy.csv`](data/gci_market_supporting_policy.csv) | Market-Supporting Policy | 2,763 |
