@@ -18,7 +18,7 @@ The data is released under [CC BY-NC 4.0](LICENSE). It is free to use, share, an
 build on for research, teaching, journalism, and analysis. **Commercial
 use requires prior written permission** from the Democracy and Capitalism Lab.
 
-Anyone is welcome to use this data. We ask that you attribute our work by citing the GCI dataset and the accompanying academic paper. Please also link to or cite the Global Capitalism Index website at **[capitalismindex.com](https://capitalismindex.com)**.
+Anyone is welcome to use this data. We ask that you attribute our work by citing the GCI dataset and the accompanying white paper. Please also link to or cite the Global Capitalism Index website at **[capitalismindex.com](https://capitalismindex.com)**.
 The the [Citation](#citation) section lists citations for the website and codebook as well.
 
 Global Capitalism Index dataset:
@@ -30,7 +30,7 @@ Global Capitalism Index dataset:
 > Lab, Karsh Institute of Democracy and Institute for Business and Society,
 > Darden School of Business, University of Virginia.
 
-And the accompanying academic paper:
+And the accompanying white paper:
 
 > Roberts, Thomas Villalobos, Zachary Esses Johnson, Scott C. Miller, Hannah
 > Knox Tucker, Michael J. Lenox, Sidney M. Milkis, Katharine Shadlock. 2026. "The
@@ -74,11 +74,11 @@ transformations, and reliability grades.
 
 [View on GitHub](docs/gci_codebook.md) · [Download as PDF](docs/gci_codebook.pdf)
 
-### Academic Paper with Compositional Methodology
+### White Paper with Compositional Methodology
 
-The academic paper provides a detailed overview of the theoretical framework and compositional methodology.
+The white paper provides a detailed overview of the theoretical framework and compositional methodology.
 
-[Download as PDF](docs/gci_academicpaper.pdf)
+[Download as PDF](docs/gci_whitepaper.pdf)
 
 ### Peer Reviews
 
@@ -137,7 +137,7 @@ Please cite the Global Capitalism Index dataset:
 > Lab, Karsh Institute of Democracy and Institute for Business and Society,
 > Darden School of Business, University of Virginia.
 
-And the accompanying academic paper:
+And the accompanying white paper:
 
 > Roberts, Thomas Villalobos, Zachary Esses Johnson, Scott C. Miller, Hannah
 > Knox Tucker, Michael J. Lenox, Sidney M. Milkis, Katharine Shadlock. 2026. "The
@@ -163,6 +163,6 @@ For the GCI website:
 
 ## Questions and Corrections
 
-Documentation errors, dataset issues, and methodological questions can directed to the authors listed in the academic paper.
+Documentation errors, dataset issues, and methodological questions can directed to the authors listed in the white paper.
 Researchers using the GCI in published work are encouraged to notify the team so we can maintain an accurate
 record of applications. The GCI is updated annually as new data become available.
