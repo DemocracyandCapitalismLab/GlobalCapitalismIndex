@@ -5,13 +5,10 @@
 The Global Capitalism Index (GCI) measures the institutional conditions that
 support market systems. It covers **170 countries** from **2009 to 2025**, and is
 built from **213 underlying datasets** organised into **33 domains** and **eight
-subindices**. Every score carries a 95% bootstrap confidence interval.
+subindices**. Every score carries a 95% bootstrap confidence interval. The index is produced by the Democracy and Capitalism Lab at the Karsh Institute of Democracy, University of Virginia, in partnership with the Institute for
+Business and Society at the Darden School of Business.
 
-The index is produced by the Democracy and Capitalism Lab at the Karsh Institute
-of Democracy, University of Virginia, in partnership with the Institute for
-Business and Society at the Darden School of Business. Interactive exploration,
-country profiles, and background are at
-**[capitalismindex.com](https://capitalismindex.com)**. This repository is the
+Interactive exploration, country profiles, and background are at **[capitalismindex.com](https://capitalismindex.com)**. This repository is the
 download point for the underlying data. The **[Executive Summary](docs/gci_executive_summary.pdf)** is the best starting point for readers new to the index. The **[2025 Annual Report](docs/gci_annual_report_2025.pdf)** presents this year's findings.The accompanying white paper provides a detailed overview of the theoretical framework and compositional methodology and is available on **[SSRN](https://ssrn.com/abstract=XXXXXXX)**.
 
 The data is released under [CC BY-NC 4.0](LICENSE). It is free to use, share, and
