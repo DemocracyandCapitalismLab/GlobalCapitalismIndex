@@ -12,7 +12,8 @@ of Democracy, University of Virginia, in partnership with the Institute for
 Business and Society at the Darden School of Business. Interactive exploration,
 country profiles, and background are at
 **[capitalismindex.com](https://capitalismindex.com)**. This repository is the
-download point for the underlying data.
+download point for the underlying data. The **[2025 Annual Report](docs/gci_annual_report_2025.pdf)** presents this
+year's findings and is the best starting point for readers new to the index.
 
 The data is released under [CC BY-NC 4.0](LICENSE). It is free to use, share, and
 build on for research, teaching, journalism, and analysis. **Commercial
@@ -81,6 +82,15 @@ transformations, and reliability grades.
 The white paper provides a detailed overview of the theoretical framework and compositional methodology.
 
 [Download as PDF](docs/gci_whitepaper.pdf)
+
+### Annual Report
+
+The annual report presents the year's findings: global and regional trends,
+notable movers, and the standing of each country across the eight subindices.
+It is written for a general audience and does not assume familiarity with the
+methodology.
+
+[Download as PDF](docs/gci_annual_report_2025.pdf)
 
 ### Peer Reviews
 
@@ -162,6 +172,14 @@ For the GCI website:
 > Tucker. 2026. "Global Capitalism Index Website," capitalismindex.com, Democracy and Capitalism Lab,
 > Karsh Institute of Democracy and Institute for Business and Society, Darden
 > School of Business, University of Virginia.
+>
+
+For the annual report:
+
+> Roberts, Thomas Villalobos, Zachary Esses Johnson, Scott C. Miller, Hannah Knox
+> Tucker. 2026. "Global Capitalism Index Annual Report 2025," Democracy and
+> Capitalism Lab, Karsh Institute of Democracy and Institute for Business and
+> Society, Darden School of Business, University of Virginia.
 
 ## Questions and Corrections
 
