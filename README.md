@@ -13,7 +13,7 @@ Business and Society at the Darden School of Business. Interactive exploration,
 country profiles, and background are at
 **[capitalismindex.com](https://capitalismindex.com)**. This repository is the
 download point for the underlying data. The **[2025 Annual Report](docs/gci_annual_report_2025.pdf)** presents this
-year's findings and is the best starting point for readers new to the index. The accompanying white paper provides a detailed overview of the theoretical framework and compositional methodology. It is available on **[SSRN](https://ssrn.com/abstract=XXXXXXX)**, and a PDF is included in the GCI zip file. 
+year's findings and is the best starting point for readers new to the index. The accompanying white paper provides a detailed overview of the theoretical framework and compositional methodology and is available on **[SSRN](https://ssrn.com/abstract=XXXXXXX)**.
 
 The data is released under [CC BY-NC 4.0](LICENSE). It is free to use, share, and
 build on for research, teaching, journalism, and analysis. **Commercial
