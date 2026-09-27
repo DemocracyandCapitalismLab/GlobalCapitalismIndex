@@ -8,8 +8,7 @@ built from **213 underlying datasets** organised into **33 domains** and **eight
 subindices**. Every score carries a 95% bootstrap confidence interval. The index is produced by the Democracy and Capitalism Lab at the Karsh Institute of Democracy, University of Virginia, in partnership with the Institute for
 Business and Society at the Darden School of Business.
 
-Interactive exploration, country profiles, and background are at **[capitalismindex.com](https://capitalismindex.com)**. This repository is the
-download point for the underlying data. The **[Executive Summary](docs/gci_executive_summary.pdf)** is the best starting point for readers new to the index. The **[2025 Annual Report](docs/gci_annual_report_2025.pdf)** presents this year's findings.The accompanying white paper provides a detailed overview of the theoretical framework and compositional methodology and is available on **[SSRN](https://ssrn.com/abstract=XXXXXXX)**.
+This repository is the download point for the underlying data and reference documents. Interactive exploration, country profiles, and background are at **[capitalismindex.com](https://capitalismindex.com)**. The **[Executive Summary](docs/gci_executive_summary.pdf)** is the best starting point for readers new to the index. The **[2025 Annual Report](docs/gci_annual_report_2025.pdf)** presents this year's findings. The accompanying white paper provides a detailed overview of the theoretical framework and compositional methodology and is available on **[SSRN](https://ssrn.com/abstract=XXXXXXX)**.
 
 The data is released under [CC BY-NC 4.0](LICENSE). It is free to use, share, and
 build on for research, teaching, journalism, and analysis. **Commercial
@@ -58,6 +57,28 @@ zeros, as several subindices have legitimate scores at or near 0.00.
 
 ## Reference Documents
 
+### Executive Summary
+
+A short-form overview of the index covering its theoretical basis, structure, method,
+and headline findings.
+
+[Download as PDF](docs/gci_executive_summary.pdf)
+
+### Annual Report
+
+The annual report presents the year's findings: global and regional trends,
+notable movers, and the standing of each country across the eight subindices.
+It is written for a general audience and does not assume familiarity with the
+methodology.
+
+[Download as PDF](docs/gci_annual_report_2025.pdf)
+
+### White Paper with Compositional Methodology
+
+The white paper provides a detailed overview of the theoretical framework and compositional methodology.
+
+[Read on SSRN](https://ssrn.com/abstract=XXXXXXX)
+
 ### Data Dictionary
 
 Column definitions for every file, and guidance on reading the coverage fields.
@@ -70,21 +91,6 @@ Dataset-level documentation for all 213 inputs: source links, native scales,
 transformations, and reliability grades.
 
 [View on GitHub](docs/gci_codebook.md) · [Download as PDF](docs/gci_codebook.pdf)
-
-### White Paper with Compositional Methodology
-
-The white paper provides a detailed overview of the theoretical framework and compositional methodology.
-
-[Read on SSRN](https://ssrn.com/abstract=XXXXXXX)
-
-### Annual Report
-
-The annual report presents the year's findings: global and regional trends,
-notable movers, and the standing of each country across the eight subindices.
-It is written for a general audience and does not assume familiarity with the
-methodology.
-
-[Download as PDF](docs/gci_annual_report_2025.pdf)
 
 ### Peer Reviews
 
