@@ -12,14 +12,11 @@ of Democracy, University of Virginia, in partnership with the Institute for
 Business and Society at the Darden School of Business. Interactive exploration,
 country profiles, and background are at
 **[capitalismindex.com](https://capitalismindex.com)**. This repository is the
-download point for the underlying data. The **[2025 Annual Report](docs/gci_annual_report_2025.pdf)** presents this
-year's findings and is the best starting point for readers new to the index. The accompanying white paper provides a detailed overview of the theoretical framework and compositional methodology and is available on **[SSRN](https://ssrn.com/abstract=XXXXXXX)**.
+download point for the underlying data. The **[Executive Summary](docs/gci_executive_summary.pdf)** is the best starting point for readers new to the index. The **[2025 Annual Report](docs/gci_annual_report_2025.pdf)** presents this year's findings.The accompanying white paper provides a detailed overview of the theoretical framework and compositional methodology and is available on **[SSRN](https://ssrn.com/abstract=XXXXXXX)**.
 
 The data is released under [CC BY-NC 4.0](LICENSE). It is free to use, share, and
 build on for research, teaching, journalism, and analysis. **Commercial
-use requires prior written permission** from the Democracy and Capitalism Lab.
-
-Anyone is welcome to use this data. We ask that you attribute our work by citing the GCI dataset and the accompanying white paper. Please also link to or cite the Global Capitalism Index website at **[capitalismindex.com](https://capitalismindex.com)**.
+use requires prior written permission** from the Democracy and Capitalism Lab. Anyone is welcome to use this data. We ask that you attribute our work by citing the GCI dataset and the accompanying white paper. Please also link to or cite the Global Capitalism Index website at **[capitalismindex.com](https://capitalismindex.com)**.
 The the [Citation](#citation) section lists citations for the website and codebook as well.
 
 Global Capitalism Index dataset:
